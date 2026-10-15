@@ -1,0 +1,22 @@
+{
+  "decisions": [
+    {
+      "area": "home hero illustration",
+      "direction": "Use a small set of softly floating travel icons around the existing route illustration.",
+      "details": "Keep the current forest-green, sage, cream, and muted-gold palette; use thin line icons in translucent cards; keep the route and booking message as the visual focus; provide a reduced-motion state and smaller mobile placements.",
+      "source": "User-selected Floating Icons Hero Section inspiration from 21st.dev, adapted to the existing static HTML/CSS site."
+    },
+    {
+      "area": "Al-Yamani Tech brand mark",
+      "direction": "Replace the custom airplane-and-orbit drawing with the PlaneTakeoff icon used in a 21st.dev Flight Status Card example.",
+      "details": "Keep the icon as a compact mark beside the Al-Yamani Tech wordmark, using the existing green and lime palette in the website and blue palette in travel-summary PDFs.",
+      "source": "21st.dev Flight Status Card example and Lucide PlaneTakeoff icon."
+    },
+    {
+      "area": "primary navigation",
+      "direction": "Use a polished full-width navigation bar with the logo at the edge, centered page links, and language, currency, and request controls grouped together.",
+      "details": "Remove the announcement strip. Keep the existing forest-green, sage, cream, and muted-gold palette. Add a clear booking entry point, make navigation sticky, and collapse links into an accessible menu on smaller screens. Keep language, currency, and request actions functional; respect reduced-motion preferences.",
+      "source": "Adapted to the static HTML/CSS site from 21st.dev Centered Nav Header and NavBar patterns, using the existing Al-Yamani Tech design tokens."
+    }
+  ]
+}
